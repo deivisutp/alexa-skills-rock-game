@@ -1,0 +1,44 @@
+{
+  "pt-BR": {
+    "translation": {
+      "Welcome": {
+        "say": "Bem vindo a pedra papel e tesoura!"
+      },
+      "AskHowManyWins": {
+        "say": "Quantas vezes eu preciso derrotar você para ser o campeão?"
+      },
+      "StartGame": {
+        "say": "Perfeito, vamos começar!"
+      },
+      "AskUserChoice": {
+        "say": "Eu já fiz minha escolha, qual é a sua? pedra, papel ou tesoura?",
+        "reprompt": "Qual é a sua escolha? Pedra, papel ou tesoura?"
+      },
+      "TiedResult": {
+        "say": "Oh! nós empatamos nesta. Grandes mentes pensam parecido. Eu vou derrotar você na próxima rodada."
+      },
+      "UserWins": {
+        "say": "Oh, você venceu esta rodada! Você tem {userWins} vitórias e eu tenho {alexaWins} vitórias."
+      },
+      "AlexaWins": {
+        "say": "Eu venvi esta rodada! Você tem {userWins} vitórias e eu tenho {alexaWins} vitórias."
+      },
+      "UserWinsTheGame": {
+        "say": "Você venceu este jogo! parabéns, foi um grande jogo."
+      },
+      "AlexaWinsTheGame": {
+        "say": "Eu venci este jogo!."
+      },
+      "AskIfStartANewGame": {
+        "say": "Devemos jogar novamente?",
+        "reprompt": "Devemos jogar novamente?"
+      },
+      "RestartGame": {
+        "say": "OK!"
+      },
+      "Bye": {
+        "say": "OK, até a próxima!"
+      }
+    }
+  }
+}
