@@ -8,6 +8,7 @@ This application is written using the [voxa3](https://github.com/mediarain/voxa)
 - Run `yarn`
 - Create a `src/config/local.json` file and customize it for your local setup, you can use `src/config/local.example.json`
 - Start the development server with `yarn watch`
+- To redirect the localhost to use in Alexa dev: ngrok http 3000
 
 ## Tests
 
@@ -34,4 +35,5 @@ $ yarn interaction
 - [Publishing Information](#)
 - [Technical Architecture Document](#)
 - [Google Drive Directory](#)
+
 # alexa-skills-rock-game
